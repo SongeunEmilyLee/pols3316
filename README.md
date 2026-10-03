@@ -9,8 +9,8 @@ This repository contains course materials for POLS 3316.
 ## Course Materials
 
 - [Syllabus](Syllabus/)
-- [Lecture Slides](Lecture Slides/)
-- [Homework Assignments](Homework Assignments/)
+- [Lecture Slides](LectureSlides/)
+- [Homework Assignments](HomeworkAssignments/)
 
 ## Important
 
